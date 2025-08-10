@@ -4,4 +4,4 @@
 
 ## 💼 Contact
 
-[![0xpixty]](https://0xpixty.github.io)
+[0xpixty](https://0xpixty.github.io)
